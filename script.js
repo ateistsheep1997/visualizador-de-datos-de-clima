@@ -10,4 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
        .attr('cy', 50) // Coordenada Y del centro del círculo
        .attr('r', 40) // Radio del círculo en píxeles
        .style('fill', 'blue'); // Color de relleno del círculo
+
+    // Aquí se pueden agregar más visualizaciones o elementos gráficos
 });
