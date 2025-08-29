@@ -1,3 +1,4 @@
+/* Estilos básicos del cuerpo */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -5,6 +6,7 @@ body {
     background-color: #f4f4f4;
 }
 
+/* Estilos del encabezado */
 header {
     background: #007BFF;
     color: white;
@@ -12,10 +14,12 @@ header {
     text-align: center;
 }
 
+/* Estilos principales */
 main {
     padding: 20px;
 }
 
+/* Estilos del gráfico */
 #chart {
     width: 100%;
     height: 400px;
