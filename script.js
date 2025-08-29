@@ -13,4 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Aquí se pueden agregar más visualizaciones o elementos gráficos
     // Para futuras mejoras, considerar agregar interactividad o gráficos adicionales
+
+    // Potenciales ideas: agregar un gráfico de líneas, barras, o incluso un mapa interactivo
+    // Considerar la posibilidad de cargar datos dinámicamente desde una API o un archivo
 });
