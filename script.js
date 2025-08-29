@@ -12,4 +12,5 @@ document.addEventListener('DOMContentLoaded', () => {
        .style('fill', 'blue'); // Color de relleno del círculo
 
     // Aquí se pueden agregar más visualizaciones o elementos gráficos
+    // Para futuras mejoras, considerar agregar interactividad o gráficos adicionales
 });
