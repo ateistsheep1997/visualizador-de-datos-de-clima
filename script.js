@@ -4,10 +4,10 @@ document.addEventListener('DOMContentLoaded', () => {
         .attr('width', '100%')
         .attr('height', '400');
 
-    // Ejemplo de visualización
+    // Ejemplo de visualización: crear un círculo azul en el gráfico
     svg.append('circle')
-       .attr('cx', 50)
-       .attr('cy', 50)
-       .attr('r', 40)
-       .style('fill', 'blue');
+       .attr('cx', 50) // Coordenada X del centro del círculo
+       .attr('cy', 50) // Coordenada Y del centro del círculo
+       .attr('r', 40) // Radio del círculo
+       .style('fill', 'blue'); // Color de relleno del círculo
 });
